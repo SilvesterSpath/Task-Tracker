@@ -26,7 +26,7 @@ import { TaskItemComponent } from './components/task-item/task-item.component';
     FontAwesomeModule,
     HttpClientModule
   ],
-  providers: [{provide: Object, useValue: "dummy"}],
+  providers: [],
   bootstrap: [AppComponent]
   
 })
