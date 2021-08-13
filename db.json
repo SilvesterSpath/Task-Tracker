@@ -19,16 +19,10 @@
       "reminder": true
     },
     {
-      "id": 4,
-      "text": "Test",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
-    },
-    {
-      "text": "sdfd",
-      "day": "3434",
-      "reminder": true,
-      "id": 5
+      "text": "new task",
+      "day": "123",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
